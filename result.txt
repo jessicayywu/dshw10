@@ -1,0 +1,24 @@
+﹎逼(Merge Sort)
+-----------------------
+Cat, Math: 90, English: 40, AVG: 65.0, (单)
+Dog, Math: 75, English: 60, AVG: 67.5, (单)
+Pig, Math: 89, English: 85, AVG: 87.0, (ヒ单)
+-----------------------
+计厩逼(Heap Sort)
+-----------------------
+Dog, Math: 75, English: 60, AVG: 67.5, (单)
+Pig, Math: 89, English: 85, AVG: 87.0, (ヒ单)
+Cat, Math: 90, English: 40, AVG: 65.0, (单)
+-----------------------
+璣ゅ逼(Quick Sort
+-----------------------
+Cat, Math: 90, English: 40, AVG: 65.0, (单)
+Dog, Math: 75, English: 60, AVG: 67.5, (单)
+Pig, Math: 89, English: 85, AVG: 87.0, (ヒ单)
+-----------------------
+キА逼(Insertion Sort)
+-----------------------
+Cat, Math: 90, English: 40, AVG: 65.0, (单)
+Dog, Math: 75, English: 60, AVG: 67.5, (单)
+Pig, Math: 89, English: 85, AVG: 87.0, (ヒ单)
+-----------------------
